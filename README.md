@@ -40,27 +40,27 @@ To figure out whodunit, you need access to a command line.
 
 	*	One way you can do this is with the command:
 
-	```bash
-	$ cat instructions
-	```
+		```bash
+		$ cat instructions
+		```
 
 2. To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf. Some easy ways to do this from the command line are to type:
 
-	```bash
-	$ cat cheatsheet.md
-	```
+		```bash
+		$ cat cheatsheet.md
+		```
 
-	or
+		or
 
-	```bash
-	$ nano cheatsheet.md
-	```
+		```bash
+		$ nano cheatsheet.md
+		```
 
-	or even
+		or even
 
-	```bash
-	$ open cheatsheet.md
-	```
+		```bash
+		$ open cheatsheet.md
+		```
 
 3. Don't use a text editor to view any files except for these instructions, the cheetsheet, hints, or `spec/solution_spec.rb`.
 
