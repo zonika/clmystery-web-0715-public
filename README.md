@@ -36,7 +36,7 @@ There's been a murder in Terminal City, and TCPD needs your help.
 
 To figure out whodunit, you need access to a command line.
 
-1. Open a Terminal, go to the location of the files (remember your `cd` command), and start by reading the file `instructions`.
+* Open a Terminal, go to the location of the files (remember your `cd` command), and start by reading the file `instructions`.
 
 	*	One way you can do this is with the command:
 
@@ -44,7 +44,7 @@ To figure out whodunit, you need access to a command line.
 		$ cat instructions
 		```
 
-2. To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf. Some easy ways to do this from the command line are to type:
+1. To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf. Some easy ways to do this from the command line are to type:
 
 	```bash
 	$ cat cheatsheet.md
@@ -62,6 +62,6 @@ To figure out whodunit, you need access to a command line.
 	$ open cheatsheet.md
 	```
 
-3. Don't use a text editor to view any files except for these instructions, the cheetsheet, hints, or `spec/solution_spec.rb`.
+2. Don't use a text editor to view any files except for these instructions, the cheetsheet, hints, or `spec/solution_spec.rb`.
 
-4. Once you think you have the solution, open up `spec/solution_spec.rb` and make the test pass by replacing the `__` with your solution as a string. 
+3. Once you think you have the solution, open up `spec/solution_spec.rb` and make the test pass by replacing the `__` with your solution as a string. 
