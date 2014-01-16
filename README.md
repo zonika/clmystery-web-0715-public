@@ -50,13 +50,13 @@ To figure out whodunit, you need access to a command line.
 	$ cat cheatsheet.md
 	```
 
-or
+	or
 
 	```bash
 	$ nano cheatsheet.md
 	```
 
-or even
+	or even
 
 	```bash
 	$ open cheatsheet.md
