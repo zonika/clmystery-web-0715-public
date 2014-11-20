@@ -1,5 +1,5 @@
 ---
-  tags: tutorial, command line, shell, beginner
+  tags: tutorial, command line, shell, beginner, bonus
   languages: bash
 ---
 
