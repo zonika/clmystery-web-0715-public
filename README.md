@@ -65,3 +65,25 @@ To figure out whodunit, you need access to a command line.
 2. Don't use a text editor to view any files except for these instructions, the cheetsheet, hints, or `spec/solution_spec.rb`.
 
 3. Once you think you have the solution, open up `spec/solution_spec.rb` and make the test pass by replacing the `__` with your solution as a string. 
+
+## Hints
+
+If you do get stuck while trying to figure out who the murderer is, you can use the hints that have been provided for you! They are denoted with a filename called `hint<number>`. There are 8 hints total - simply replace `<number>` with a number 1 through 8. NOTE: try to do as much as you can without the hints!
+
+To access a hint from the command line, simply type:
+
+    ```bash
+    cat hint1
+    ```
+
+    or
+
+    ```bash
+    nano hint1
+    ```
+
+    or
+
+    ```bash
+    open hint1
+    ```
