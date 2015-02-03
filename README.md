@@ -72,18 +72,18 @@ If you do get stuck while trying to figure out who the murderer is, you can use 
 
 To access a hint from the command line, simply type:
 
-    ```bash
-    cat hint1
-    ```
+```bash
+cat hint1
+```
 
-    or
+or
 
-    ```bash
-    nano hint1
-    ```
+```bash
+nano hint1
+```
 
-    or
+or
 
-    ```bash
-    open hint1
-    ```
+```bash
+open hint1
+```
